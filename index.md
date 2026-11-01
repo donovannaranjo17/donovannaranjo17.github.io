@@ -1,5 +1,3 @@
-# Donovan Naranjo
-
 ## CS 499 Capstone Portfolio
 
 **Southern New Hampshire University**
