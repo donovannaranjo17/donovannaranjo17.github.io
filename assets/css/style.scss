@@ -1,0 +1,83 @@
+
+---
+---
+
+@import "{{ site.theme }}";
+
+/* TrashTalk FM inspired color palette */
+$navy: #111827;
+$orange: #F97316;
+$blue: #3B82F6;
+$gray: #64748B;
+
+/* Minimal white background */
+body {
+  background-color: #ffffff;
+  color: $navy;
+}
+
+/* White Cayman header */
+.page-header {
+  background: #ffffff;
+  color: $navy;
+  border-top: 5px solid $orange;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 3rem 1rem;
+}
+
+.project-name {
+  color: $navy;
+  font-weight: 750;
+  letter-spacing: -1px;
+}
+
+.project-tagline {
+  color: $gray;
+  opacity: 1;
+}
+
+/* Content */
+.main-content {
+  max-width: 900px;
+  color: #475569;
+  line-height: 1.8;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: $navy;
+  font-weight: 700;
+}
+
+/* Orange section accents */
+.main-content h2 {
+  border-left: 4px solid $orange;
+  padding-left: 14px;
+  margin-top: 2.5rem;
+}
+
+/* Blue links */
+.main-content a {
+  color: $blue;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.main-content a:hover {
+  color: $orange;
+  text-decoration: underline;
+}
+
+/* Subtle separators */
+.main-content hr {
+  border: 0;
+  border-bottom: 1px solid #e5e7eb;
+  margin: 2rem 0;
+}
+
+/* Clean footer */
+.site-footer {
+  border-top: 1px solid #e5e7eb;
+  color: $gray;
+}
