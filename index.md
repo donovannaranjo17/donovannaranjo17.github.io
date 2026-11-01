@@ -1,8 +1,8 @@
 
-# Donovan Naranjo
-### Computer Science Portfolio | Southern New Hampshire University
 
-**Software Development • Data Analytics • Automation**
+## CS 499 Capstone Portfolio
+
+**Southern New Hampshire University**
 
 Welcome to my computer science ePortfolio! This website showcases my development skills, projects, and growth throughout the Computer Science program at Southern New Hampshire University.
 
